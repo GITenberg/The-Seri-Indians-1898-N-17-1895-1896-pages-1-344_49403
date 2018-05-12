@@ -1,10 +1,16 @@
 _repo: The-Seri-Indians-1898-N-17-1895-1896-pages-1-344_49403
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49403-h/images/cover.jpg
 creator:
   author:
     agent_name: McGee, W J
     gutenberg_agent_id: '45317'
     url: http://www.gutenberg.org/2009/agents/45317
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49403#The-Seri-Indians-1898-N-17-1895-1896-pages-1-344
 gutenberg_issued: '2015-07-09'
 gutenberg_type: Text
 identifiers:
